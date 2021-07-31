@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith N T and used for educational purposes only
-# https://github.com/AbhijithNT
-# Copyright ABHIJITH N T
-# Thank you https://github.com/pyrogram/pyrogram
+# BOT BY @PARVSHAH_01 
+# JUST SEND ME A FILE I WILL UPLOAD IT TO CLOUD
+
 
 import os
 import logging
