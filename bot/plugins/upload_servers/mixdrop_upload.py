@@ -66,8 +66,8 @@
 #                     ],
 #                         [
 #                             InlineKeyboardButton(
-#                                 "🗂 SOURCE",
-#                                 url="https://github.com/AbhijithNT/"
+#                                 "🗂 CREDIT",
+#                                 url=http://t.me/PARVSHAH_01"
 #                             )
 #                         ]])
 #             )
